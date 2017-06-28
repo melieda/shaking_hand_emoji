@@ -1,0 +1,151 @@
+h2{
+    text-align: center;
+    font-family: monospace;
+    font-size: 30px;
+    top:
+}
+img{
+    position: absolute;
+    left: 0;
+    top: 0px;
+}
+#abdi{
+    position: absolute;
+    left: 100px;
+    top: 500px;
+}
+.sideright{
+    background-color: rgba(20, 20, 20, 0.4);
+    margin:-8px;
+    padding:20px;
+    font-size: 105%;
+    float: right;
+    width: 8.8%;
+    height: 525px;
+    position: absolute;
+    left:1214px;
+    top:104px;
+    list-style-type: none;
+    overflow: hidden;
+    display: block;
+}
+
+.topbar{
+    background-color: rgba(255, 64, 25, 0.8);
+ background-blend-mode: normal, lighten, soft-light;
+    padding: 3em;
+    display: block;
+    position: fixed;
+    top: 0;
+    left:0;
+    width:100%;
+    
+
+    
+}
+#ani{
+    position: absolute;
+    top:30px;
+    left: 400px;
+    color: white;
+}
+
+#adi{
+    position: absolute;
+        top:30px;
+        left:600px;
+    color: white;
+}
+#jag{
+    position: absolute;
+    top:30px;
+    left: 860px;
+    color: white;
+}
+
+#företag{
+    color: white;
+    position: absolute;
+    top: -28px
+}
+
+li a{
+        display: block;
+        color: white;
+        padding:8px 9.2px;
+        font-family: 'Vesper';
+        text-decoration: none;
+        font-size: 20.69px;
+        list-style-type: none;
+        width: 100%;
+
+}
+.sideright {
+    margin:
+}
+
+
+.sideright ul li {
+    list-style-type: none;
+    padding: 0;
+    float: right;
+    width: 140px;
+    margin: 0;
+
+}
+
+.sideright ul{
+    padding: 0;
+    width: 100%;
+    margin: 
+}
+.sideright li a:hover{
+    background-color: rgba(255, 64, 25, 0.8);
+    background-blend-mode: normal, lighten, soft-light;
+    color: black;
+    
+}
+body{
+    background-image: url(office.jpg);
+    width: 
+}
+
+
+#rubrik{
+    text-align: center;
+    display: 
+}
+
+.text{
+    display: block;
+    width: 800px;
+    height: 500px;
+    background-color:rgba(255, 255, 255, 0.8);
+    position: absolute;
+        top:130px;
+        left:20% 
+}
+   
+#rubrik{
+    padding: 0.5em;
+}
+    h2{
+        position: absolute;
+            top:-18px
+    }
+#text{
+    position: absolute;
+    top:50px;
+    width: 95%;
+    padding:1em
+        
+}
+
+#sogeti{
+   border: groove;
+    border-width: thin;
+        color: white;
+}
+#sogeti:hover{
+    color: black;
+}
